@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Invader03 Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1981665577804106731, guid: 80f7877de8208374cb4c06cf5fe4fed6, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2574432192816317977, guid: 80f7877de8208374cb4c06cf5fe4fed6, type: 3}
       propertyPath: m_Sprite
       value: 
